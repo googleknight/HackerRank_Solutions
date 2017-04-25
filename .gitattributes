@@ -1,0 +1,4 @@
+*.java linguist-language=Java
+*.cpp linguist-language=C++
+*.py linguist-language=Python
+*.sql linguist-language=SQL
